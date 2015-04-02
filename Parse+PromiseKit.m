@@ -8,6 +8,7 @@
 #import "Parse+PromiseKit.h"
 #import "PMKPFMacros.h"
 #import <Promise.h>
+#import <ParseUI.h>
 
 @implementation PFAnonymousUtils (PromiseKit)
 
